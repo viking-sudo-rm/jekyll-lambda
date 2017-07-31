@@ -1,7 +1,7 @@
 # Site settings
 title: Will Merrill
 author: Will Merrill
-author_avatar: images/latest[1]
+author_avatar: /images/latest[1]
 email: william.merrill@yale.edu
 description: Personal website and blog. Thanks for stopping by!
 baseurl: "" # optional
