@@ -10,8 +10,8 @@
         href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
     {% endif %}
   {% endfor %}
-  <a href="{{ site.baseurl }}/" class="page-link{% if current == null %} active{% endif %}">Blog</a>
-  <!--<a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank" class="page-link">RSS</a>-->
+  <a href="{{ site.baseurl }}/" class="page-link{% if current == null %} active{% endif %}">About</a>
+  <a href="{{ site.baseurl }}/Resume.pdf" class="page-link{% if current == null %} active{% endif %}">Resume</a>
   {% if site.github_repo %}
   <a href="http://github.com/{{ site.github_repo }}"
     target="_blank"
