@@ -5,14 +5,13 @@
   <div class="links">
   {% assign current = page.title %}
   <a href="{{ site.baseurl }}/" class="page-link{% if current == null %} active{% endif %}">About</a>
-  <a href="https://github.com/SnorriDev/thoth/wiki" class="page-link{% if current == null %} active{% endif %}"Thoth</a>
+  <a href="https://github.com/SnorriDev/thoth/wiki" class="page-link{% if current == null %} active{% endif %}">Thoth</a>
   <a href="{{ site.baseurl }}/Resume.pdf" class="page-link{% if current == null %} active{% endif %}">Resume</a>
   {% if site.github_repo %}
-  <a href="http://github.com/{{ site.github_repo }}"
+  <a href="http://github.com/viking-sudo-rm"
     target="_blank"
     class="page-link github-link">
-    <img src="{{ "/images/github-repo.png" | prepend: site.baseurl }}" alt="Github Repository">
-    Source</a>
+    <img src="{{ "/images/github-repo.png" | prepend: site.baseurl }}" alt="Github"></a>
   {% endif %}
   </div>
 </header>
