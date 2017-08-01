@@ -6,8 +6,6 @@ comments: false
 author_footer: false
 ---
 
-![Portrait of me](https://scontent.fbed1-1.fna.fbcdn.net/v/t1.0-9/13055515_979465515472249_6331922739633909911_n.jpg?oh=a2481a02446da6dc57e754619e7a7206&oe=59ECD9B6){: height="150px" width="150px"}
-
 I am a rising junior (third year) at Yale University broadly interested in all things language. In particular, I enjoy studying two seemingly disjoint topics: formal computational models of language, and the history of linguistic change. These correspond roughly to computational linguistics and historical linguistics.
 
 I am a member of [Computational Linguistics at Yale](http://ling.yale.edu/research/computational-linguistics-yale-clay), a research group founded by [Bob Frank](http://ling.yale.edu/people/robert-frank) to build on the exciting progress that has been made recently in natural language processing (NLP) by using theoretical insights from mathematical linguistics.
