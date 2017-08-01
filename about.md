@@ -6,7 +6,7 @@ comments: false
 author_footer: false
 ---
 
-![Portrait of me](https://www.facebook.com/photo.php?fbid=979465515472249&set=a.102823763136433.5836.100002264291889&type=3&theater)
+![Portrait of me](https://scontent.fbed1-1.fna.fbcdn.net/v/t1.0-9/13055515_979465515472249_6331922739633909911_n.jpg?oh=a2481a02446da6dc57e754619e7a7206&oe=59ECD9B6)
 
 I am a rising junior (third year) at Yale University broadly interested in all things language. In particular, I enjoy studying two seemingly disjoint topics: formal computational models of language, and the history of linguistic change. These correspond roughly to computational linguistics and historical linguistics.
 
