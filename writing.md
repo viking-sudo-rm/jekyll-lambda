@@ -6,6 +6,8 @@ comments: false
 author_footer: false
 ---
 
+Here are some assorted things that I've written which you may find interesting.
+
 * [Variable force modality of "motan" in Beowulf](https://ling.auf.net/lingbuzz/003541), 2017.
 * [Sense abstraction: unifying intensionality, predicate abstraction, and alternative semantics](https://ling.auf.net/lingbuzz/003487), 2017.
 * [The Norwegian Crusage as a viking expedition](/files/Jorsalafari.pdf), 2016.
