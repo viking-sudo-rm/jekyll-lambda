@@ -11,8 +11,10 @@
 	  </header>
 
 	  <article class="entry-body">
-	  	{% if page.content %}
+	  	{% if page.content and page.layout != 'post' %}
 	  		{{ page.content }}
+	  	{% elsif content %}
+	  		{{ content }}
   		{% else %}
 	  		{{ page.excerpt }}
 	  		{% if page.content contains '<!-- more -->' %}
