@@ -11,9 +11,7 @@
 	  </header>
 
 	  <article class="entry-body">
-	  	{% if page.content and page.layout != 'post' %}
-	  		{{ page.content }}
-	  	{% elsif content %}
+	  	{% if page.content %}
 	  		{{ content }}
   		{% else %}
 	  		{{ page.excerpt }}
