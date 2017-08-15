@@ -8,4 +8,4 @@ category: thoth
 
 The story of *The Book of Thoth* is based off of a real legend from Ancient Egypt. The main character is Prince Setna, whose goal is to find the Book of Thoth: a legendary artifact that contains forbidden divine secrets. Legend has it that mortals who read the tome become as powerful as the gods themselves. Setna's journey takes him on many adventures through the human world and cosmos of Egyptian mythology.
 
-You can follow the development of the project on this blog. We have already have approved to release the game on Steam, and our tentative release date is December 2017.
+We have already have approved to release the game on Steam, and our tentative release date is December 2017. Like our (Facebook page)[https://www.facebook.com/SnorriDev/] and follow this blog for more information about development.
