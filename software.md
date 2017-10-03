@@ -19,5 +19,5 @@ An incomplete list of some open-source projects that I've worked on.
 
 ## Minecraft mods
 * [XRayField](https://www.google.com/search?q=xrayfield+bukkit&oq=xrayfield+bukkit&aqs=chrome..69i57j69i60.2230j0j7&sourceid=chrome&ie=UTF-8). Minecraft mod that computes work integrals of mining trajectories through a "diamond field" in order to find cheaters. This was my high school final project.
-* [WanderCraft]. A single-player Star Wars Minecraft mod with x-wings, throwable lightsabers, and lots of other custom content.
 * [Bounty](https://dev.bukkit.org/projects/bounty-snorri). A Bukkit plugin that lets players on a Minecraft server put cash bounties on each other's heads.
+* WanderCraft. A single-player Star Wars Minecraft mod with x-wings, throwable lightsabers, and lots of other custom content.
