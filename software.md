@@ -18,6 +18,6 @@ An incomplete list of some open-source projects that I've worked on.
 * [UnfairVigenere](https://github.com/viking-sudo-rm/UnfairVigenere). A Java program that breaks Vigenere ciphers via chi-squared analysis of character frequency distributions.
 
 ## Minecraft mods
-* [XRayField](https://www.google.com/search?q=xrayfield+bukkit&oq=xrayfield+bukkit&aqs=chrome..69i57j69i60.2230j0j7&sourceid=chrome&ie=UTF-8). Minecraft mod that computes work integrals of mining trajectories through a "diamond field" in order to find cheaters. This was my high school final project.
+* [XRayField](https://drive.google.com/file/d/0B1BOOAECXTDoWGliaWF0dE9xSUk/view). Minecraft mod that computes work integrals of mining trajectories through a "diamond field" in order to find cheaters. This was my high school final project.
 * [Bounty](https://dev.bukkit.org/projects/bounty-snorri). A Bukkit plugin that lets players on a Minecraft server put cash bounties on each other's heads.
 * WanderCraft. A single-player Star Wars Minecraft mod with x-wings, throwable lightsabers, and lots of other custom content.
