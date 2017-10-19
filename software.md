@@ -6,7 +6,7 @@ comments: false
 author_footer: false
 ---
 
-An incomplete list of some open-source projects that I've worked on.
+An incomplete list of some open-source projects that I've worked on. For more, see [my GitHub](https://github.com/viking-sudo-rm/).
 
 ## Machine learning
 * [Draftnet](http://draftnet.herokuapp.com/). Named Grace Hopper Prize finalist for deep learning model that drafts winning teams in Dota 2. Developed a web interface for the model after the competition (see above link).
