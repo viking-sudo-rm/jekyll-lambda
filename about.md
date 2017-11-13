@@ -10,7 +10,7 @@ My name is Will, and I am a rising junior at Yale University broadly interested 
 
 I am a member of [Computational Linguistics at Yale](http://clay.yale.edu/), a research group founded by [Bob Frank](http://ling.yale.edu/people/robert-frank) to build on the exciting progress that has been made applying deep learning to NLP problems.
 
-Additionally, I am an avid player and amateur developer of video games. I currently play a lot of Dota 2 and Age of Empires Online, and I am the captain of the Yale Dota 2 team. Along with my friend Toby, I'm working on completing my first serious video game title, [The Book of Thoth](https://github.com/SnorriDev/thoth), which will be released on Steam in 2018.
+Outside of school, I am an avid player and amateur developer of video games. I currently play a lot of Dota 2 and Age of Empires Online, and I am the captain of the Yale Dota 2 team. Along with my friend Toby, I'm working on completing my first serious video game title, [The Book of Thoth](http://snorridev.github.io/thoth/), which will be released on Steam in 2018.
 
 ## Past research experience
 
