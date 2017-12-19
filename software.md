@@ -16,8 +16,8 @@ An incomplete list of some open-source projects that I've worked on. For more, s
 * [Frisbee Warfare](https://www.facebook.com/Frisbee-Mayhem-fShargle-Warfare-409693082412612). A horde-mode first person shooter where players use frisbees instead of guns. I was inspired to make this game after playing a lot of frisbee dodgeball one summer.
 
 ## Web and app development
+* [Franklin Warranty Center](https://itunes.apple.com/us/app/franklin-warranty-center/id1320465677?mt=8). An app for reporting car insurance claims that I made as a freelance developer.
 * [Foodie Call](https://itunes.apple.com/nz/app/yale-foodie-call/id1229515342?mt=8). An app and website for Yale students to order late night food from local restaurants straight to their dorm rooms.
-* Franklin Warranty Center. An app for reporting car insurance claims that I made as a freelance developer.
 
 ## Minecraft mods
 * [XRayField](https://drive.google.com/file/d/0B1BOOAECXTDoWGliaWF0dE9xSUk/view). Minecraft mod that computes work integrals of mining trajectories through a "diamond field" in order to find cheaters. This was my high school final project.
