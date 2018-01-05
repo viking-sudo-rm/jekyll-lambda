@@ -6,9 +6,9 @@ comments: false
 author_footer: false
 ---
 
-My name is Will, and I am a rising junior at Yale University broadly interested in the intersection of language and computation. This means both practical NLP and more theoretical issues in linguistics. Along with these interests of mine comes a fundamental appreciation for deep learning, and over the past two years I have been tinkering with neural models for language tasks, video game agents, and other applications. I'm also quite into historical linguistics, with a particular focus on medieval Germanic languages.
+Thanks for visiting my blog! I am a junior at Yale University broadly interested in the intersection of language and computation. This means both practical NLP and more theoretical issues in linguistics. Along with these interests of mine comes a fundamental appreciation for deep learning, and over the past two years I have been tinkering with neural models for language tasks, video game agents, and other applications. I'm also quite into historical linguistics, with a particular focus on medieval Germanic languages.
 
-I am a member of [Computational Linguistics at Yale](http://clay.yale.edu/), a research group founded by [Bob Frank](http://ling.yale.edu/people/robert-frank) to build on the exciting progress that has been made applying deep learning to NLP problems.
+I am a member of [Computational Linguistics at Yale](http://clay.yale.edu/), a research group founded by [Bob Frank](http://ling.yale.edu/people/robert-frank) to build on the exciting progress that has been made applying deep learning to NLP problems. Last semester, I was an undergraduate learning assistant (ULA) for [Dragomir Radev](http://www.cs.yale.edu/homes/radev/)'s artificial intelligence course.
 
 Outside of school, I am an avid player and amateur developer of video games. I currently play a lot of Dota 2 and Age of Empires Online, and I am the captain of the Yale Dota 2 team. I got into game programming at a young age from making Minecraft mods and Unity games. Along with my friend Toby, I'm working on completing my first serious video game title, [*The Book of Thoth*](http://snorridev.github.io/thoth/), which will be released on Steam in 2018.
 
