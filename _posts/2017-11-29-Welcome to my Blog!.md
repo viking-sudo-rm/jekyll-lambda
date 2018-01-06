@@ -2,6 +2,7 @@
 layout: post
 title: "Welcome to my blog!"
 category: thoth
+author_footer: false
 ---
 
 This is my personal blog. For more information about me or what I work on, check the links in the nav bar.
