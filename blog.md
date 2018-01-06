@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Blog
 permalink: /blog/
 comments: false
 author_footer: false
