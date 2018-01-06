@@ -1,12 +1,3 @@
----
-layout: page
-title: About
-permalink: /
-comments: false
-author_footer: false
-not_in_header: true
----
-
 Thanks for visiting my blog! I am a junior at Yale University broadly interested in the intersection of language and computation. This means both practical NLP and more theoretical issues in linguistics. Along with these interests of mine comes a fundamental appreciation for deep learning, and over the past two years I have been tinkering with neural models for language tasks, video game agents, and other applications. I'm also quite into historical linguistics, with a particular focus on medieval Germanic languages.
 
 I am a member of [Computational Linguistics at Yale](http://clay.yale.edu/), a research group founded by [Bob Frank](http://ling.yale.edu/people/robert-frank) to build on the exciting progress that has been made applying deep learning to NLP problems. Last semester, I was an undergraduate learning assistant (ULA) for [Dragomir Radev](http://www.cs.yale.edu/homes/radev/)'s artificial intelligence course.
