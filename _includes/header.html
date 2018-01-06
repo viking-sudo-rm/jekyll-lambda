@@ -5,7 +5,7 @@
   <div class="links">
   {% assign current = page.title %}
   {% for page in site.pages %}
-  {% if page.not_in_header %}{% continue %}{% endif %}
+    {% if page.not_in_header %}{% continue %}{% endif %}
     {% if page.title %}
       <a class="page-link{% if current == page.title %} active{% endif %}"
         href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
