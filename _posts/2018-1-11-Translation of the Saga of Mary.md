@@ -14,3 +14,7 @@ There was a monastery in that mountain which is called Tumba. There at the monas
 ## Original ##
 
 *Munklífi eitt var í fjalli því, er Tumba heitir. Þar stóð Mikjáls kirkja hjá munklífinu. Í musterinu var Maríu líkneskja, ok svá ger sem Dróttinn sæti í knjám henni, ok var silkidúkr breiddr yfir höfuð þeim. Þar kómu opt reiðar stórar ok eldingar, ok laust eitt sinn svá kirkjuna, at hon brand öll, en líkneskja Maríu var heil, ok svá stallrinn, er hon stóð á. Hvergi var á silkidúkinn runnit, er á líkneskjunni var. Munkar lýstu þessi jartegn, ok lofuðu allir Guð, þeir er heyrðu. Vér eigum þess Guð at biðja, at hann leysi oss svá frá eilífum eldi sem líkneskit frá þessum eldshita.*
+
+## Remarks ##
+
+The passage describes a miraculous event in which a statue of Mary struck by lightning does not burn. This event is meant as an allegory for the fate of Christian souls after death: the statue's unburned state represents God's ability to spare mankind from hellfire. One interesting thing I noticed is that the word for "likeness" changes genders between the description of the miracle and the final sentence which injects the allegorical interpretation. I can't think of any rhetorical significance that this could have though.
