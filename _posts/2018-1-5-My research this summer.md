@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summer research at Language Learning Lab"
-category: nlp
+category: NLP
 author_footer: false
 ---
 
