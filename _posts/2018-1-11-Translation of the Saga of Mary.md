@@ -17,4 +17,4 @@ There was a monastery in that mountain which is called Tumba. There at the monas
 
 ## Remarks ##
 
-The passage describes a miraculous event in which a statue of Mary struck by lightning does not burn. This event is meant as an allegory for the fate of Christian souls after death: the statue's unburned state represents God's ability to spare mankind from hellfire. One interesting thing I noticed is that the word for "likeness" changes genders between the description of the miracle and the final sentence which injects the allegorical interpretation. I can't think of any rhetorical significance that this could have though.
+The passage describes a miracle in which a statue of Mary struck by lightning does not burn. This event is meant as an allegory for the fate of Christian souls after death: the statue's unburned state represents God's ability to spare mankind from hellfire. One odd thing I noticed is that the word for "likeness" changes genders between the description of the miracle and the final sentence which injects the allegorical interpretation. I can't think of any rhetorical significance that this could have though.
