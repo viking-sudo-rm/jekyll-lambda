@@ -5,7 +5,7 @@ category: "old Norse"
 author_footer: false
 ---
 
-In order to practice my Old Norse, I decided to write up a thorough translation of a short excerpt from the Icelandic Saga of Mary. I've given the original text underneath, which comes from *A New Introduction to Old Norse* edited by Anthony Faulkes. Please let me know if you have any corrections or suggestions! If I post more translations here, I will try to choose longer and more interesting passages (and maybe add some discussion of the translation).
+In order to practice my Old Norse, I decided to write up a thorough translation of a short excerpt from the Icelandic Saga of Mary. I've given the original text underneath, which comes from *A New Introduction to Old Norse* edited by Anthony Faulkes. Please let me know if you have any corrections or suggestions! If I post more translations here, I will try to choose longer and more interesting passages.
 
 ## Translation ##
 
