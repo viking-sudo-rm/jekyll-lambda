@@ -19,4 +19,4 @@ There was a monastery in that mountain which is called Tumba. There at the monas
 
 The passage describes a miracle in which a statue of Mary struck by lightning does not burn. This event is meant as an allegory for the fate of Christian souls after death: the statue's unburned state represents God's ability to spare mankind from hellfire.
 
-One odd thing I noticed is that feminine "*líkneskja*"" in the description of the miracle becomes neuter "*líkneskit*"" in the final sentence that injects the allegorical interpretation. I can't think of any rhetorical significance that this could have though.
+One odd thing I noticed is that feminine "*líkneskja*" in the description of the miracle becomes neuter "*líkneskit*" in the final sentence that injects the allegorical interpretation. I can't think of any rhetorical significance that this could have though.
