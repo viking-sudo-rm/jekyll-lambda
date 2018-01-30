@@ -5,6 +5,6 @@ category: latin
 author_footer: false
 ---
 
-Verbum antiquam amo. Ut animis patiar lego qui sunt distincti tempore meo. Per literas sententias discessorum sentire possumus.
+Verbum antiquum amo. Ut animis patiar lego qui sunt distincti tempore meo. Per literas sententias discessorum sentire possumus.
 
 Plus latinam scribere volo. Nunc prosam scribo, deinde poemas latinas scribere spero. Totum est hodie.
