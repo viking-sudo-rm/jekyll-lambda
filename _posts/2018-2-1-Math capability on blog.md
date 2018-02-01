@@ -6,9 +6,7 @@ author_footer: false
 mathjax: true
 ---
 
-I've integrated MathJax onto my blog so that I have the capability to display equations in LaTeX.
-
-This post is a test to make sure that it works:
+I've integrated MathJax onto my blog so that I have the capability to display equations in LaTeX. For example, here is a description of the update rule for gradient descent:
 
 $$ \theta^{t+1} = \theta^t - \eta \frac{\partial L}{\partial \theta} (\theta) $$
 
