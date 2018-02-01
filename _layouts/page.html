@@ -1,4 +1,7 @@
 ---
 layout: default
 ---
+{% if post.use_math %}
+      {% include mathjax_support.html %}
+{% endif %}
 {% include post.html %}
