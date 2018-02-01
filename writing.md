@@ -7,7 +7,7 @@ author_footer: false
 use_math: true
 ---
 
-Now a inline math with special character: $|\psi\rangle$, $x'$, $x^\*$.
+Updated math: $|\psi\rangle$, $x'$, $x^\*$.
 
 Test a display math:
 $$
