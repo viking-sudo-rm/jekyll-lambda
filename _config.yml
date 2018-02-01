@@ -13,7 +13,7 @@ github_repo: viking-sudo-rm/viking-sudo-rm.github.io
 # disqus: disqus-id
 
 # Build settings
-markdown: maruku
+markdown: kramdown # maruku
 permalink: pretty
 excerpt_separator: "<!-- more -->"
 
