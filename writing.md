@@ -7,16 +7,6 @@ author_footer: false
 mathjax: true
 ---
 
-{% include mathjax.html %}
-
-New mathjax: $|\psi\rangle$, $x'$, $x^\*$.
-
-Test a display math:
-$$
-   |\psi_1\rangle = a|0\rangle + b|1\rangle
-$$
-Is it O.K.?
-
 Here are some things I've written that you may find interesting.
 
 * [Sense abstraction: a generalization of intensionality for the semantics of subordinate clauses](/files/Sense_Abstraction_2018.pdf), 2018.
