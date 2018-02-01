@@ -4,10 +4,12 @@ title: Writing
 permalink: /writing/
 comments: false
 author_footer: false
-use_math: true
+mathjax: true
 ---
 
-Updated math: $|\psi\rangle$, $x'$, $x^\*$.
+{% include mathjax.html %}
+
+New mathjax: $|\psi\rangle$, $x'$, $x^\*$.
 
 Test a display math:
 $$
