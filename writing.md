@@ -4,7 +4,16 @@ title: Writing
 permalink: /writing/
 comments: false
 author_footer: false
+use_math: true
 ---
+
+Now a inline math with special character: $|\psi\rangle$, $x'$, $x^\*$.
+
+Test a display math:
+$$
+   |\psi_1\rangle = a|0\rangle + b|1\rangle
+$$
+Is it O.K.?
 
 Here are some things I've written that you may find interesting.
 
