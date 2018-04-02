@@ -11,7 +11,8 @@ Here are some things I've written that you may find interesting.
 ## Publications and conference papers
 
 * End-to-end graph-based TAG parsing with neural networks. Jungo Kasai, Robert Frank, Pauli Xu, William Merrill, and Owen Rambow. NAACL 2018.
-* [A semantics of subordinate clauses using delayed evaluation](/files/Sense_Abstraction_2018.pdf). William Merrill. TULCon 2018.
+* A semantics of subordinate clauses using delayed evaluation. William Merrill. TULCon 2018.
+\[ [PDF](/files/sense-abstraction/paper.pdf) | [Slides](/files/sense-abstraction/slides.pdf) \]
 
 ## Other
 * [Short summary paper on Navajo code talkers](/files/NavajoCodeTalkers.pdf). 2018.
