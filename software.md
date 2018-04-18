@@ -9,7 +9,7 @@ author_footer: false
 An incomplete list of some open-source projects that I've worked on. For more, see [my GitHub](https://github.com/viking-sudo-rm/).
 
 ## Deep learning
-* [StackNN](https://github.com/viking-sudo-rm/StackNN). Public implementation of the differentiable stack datastructure originally described by [Grefenstette et al.](https://arxiv.org/abs/1506.02516).
+* [StackNN](https://github.com/viking-sudo-rm/StackNN). Public implementation of the differentiable stack datastructure originally described by Grefenstette et al., 2015.
 * [Draftnet](http://draftnet.herokuapp.com/). Named Grace Hopper Prize finalist for deep learning model that drafts winning teams in Dota 2. Developed a web interface for the model after the competition (see above link).
 
 ## Game development
