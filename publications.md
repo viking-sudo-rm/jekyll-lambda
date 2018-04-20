@@ -18,7 +18,7 @@ Here are some things I've written that you may find interesting.
 ## Other
 * [Dante++: a canto of *Inferno* featuring Mark Zuckerburg, Pygmalion, and Yann LeCun](/files/dantepp.pdf). 2018.
 * [Short summary paper on Navajo code talkers](/files/NavajoCodeTalkers.pdf). 2018.
-* [Variable force modality of "motan" in Beowulf](https://ling.auf.net/lingbuzz/003541). 2017.
+* [Variable force modality of *motan* in Beowulf](https://ling.auf.net/lingbuzz/003541). 2017.
 * [A Haskell implementation of tense and aspect semantics](/files/tenses/Final_Project.pdf). 2016.  
 \[ [Code](/files/tenses/tenses.zip). \]
 * [The Norwegian Crusade as a viking expedition](/files/Jorsalafari.pdf). 2016.
