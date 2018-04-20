@@ -16,11 +16,11 @@ Here are some things I've written that you may find interesting.
 \[ [PDF](/files/sense-abstraction/paper.pdf) | [Slides](/files/sense-abstraction/slides.pdf) \]
 
 ## Other
-* **Dante++: a canto of *Inferno* featuring Mark Zuckerburg, Pygmalion, and Yann LeCun**. 2018.  
+* **Dante++: a canto of _Inferno_ featuring Mark Zuckerburg, Pygmalion, and Yann LeCun**. 2018.  
 \[ [PDF](/files/dantepp.pdf) \]
 * **Short summary paper on Navajo code talkers**. 2018.  
 \[ [PDF](/files/NavajoCodeTalkers.pdf) \]
-* **Variable force modality of *motan* in Beowulf**. 2017.
+* **Variable force modality of _motan_ in Beowulf**. 2017.  
 \[ [PDF](https://ling.auf.net/lingbuzz/003541) \]
 * **A Haskell implementation of tense and aspect semantics**. 2016.  
 \[ [PDF](/files/tenses/Final_Project.pdf) | [Code](/files/tenses/tenses.zip) \]
