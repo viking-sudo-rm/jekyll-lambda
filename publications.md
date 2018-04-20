@@ -16,10 +16,15 @@ Here are some things I've written that you may find interesting.
 \[ [PDF](/files/sense-abstraction/paper.pdf) | [Slides](/files/sense-abstraction/slides.pdf) \]
 
 ## Other
-* [Dante++: a canto of *Inferno* featuring Mark Zuckerburg, Pygmalion, and Yann LeCun](/files/dantepp.pdf). 2018.
-* [Short summary paper on Navajo code talkers](/files/NavajoCodeTalkers.pdf). 2018.
-* [Variable force modality of *motan* in Beowulf](https://ling.auf.net/lingbuzz/003541). 2017.
-* [A Haskell implementation of tense and aspect semantics](/files/tenses/Final_Project.pdf). 2016.  
-\[ [Code](/files/tenses/tenses.zip) \]
-* [The Norwegian Crusade as a viking expedition](/files/Jorsalafari.pdf). 2016.
-* [On the history of Minecraft](http://www.packerintersections.com/the-history-of-minecraft-how-a-swedish-indie-game-came-to-dominate-the-world.html). 2015.
+* **Dante++: a canto of *Inferno* featuring Mark Zuckerburg, Pygmalion, and Yann LeCun**. 2018.  
+\[ [PDF](/files/dantepp.pdf) \]
+* **Short summary paper on Navajo code talkers**. 2018.  
+\[ [PDF](/files/NavajoCodeTalkers.pdf) \]
+* **Variable force modality of *motan* in Beowulf**. 2017.
+\[ [PDF](https://ling.auf.net/lingbuzz/003541) \]
+* **A Haskell implementation of tense and aspect semantics**. 2016.  
+\[ [PDF](/files/tenses/Final_Project.pdf) | [Code](/files/tenses/tenses.zip) \]
+* **The Norwegian Crusade as a viking expedition**. 2016.  
+\[ [PDF](/files/Jorsalafari.pdf) \]
+* **On the history of Minecraft**. 2015.  
+\[ [Link](http://www.packerintersections.com/the-history-of-minecraft-how-a-swedish-indie-game-came-to-dominate-the-world.html) \]
