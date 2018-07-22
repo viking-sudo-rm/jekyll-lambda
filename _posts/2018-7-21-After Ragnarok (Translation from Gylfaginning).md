@@ -5,7 +5,7 @@ category: "old Norse"
 author_footer: false
 ---
 
-Ragnarok is a well known part of the Norse mythological canon presented by Snorri Sturluson. But what happens after Ragnarok? Here's what is said in Gylfaginning.
+Ragnarok is a well known part of the Norse mythological canon presented by Snorri Sturluson. But what happens after the world is destroyed? *Gylfaginning* actually tells us, and I've translated the corresponding section below. There's a lot that might be said about how this passage bears on the authenticity of the Ragnarok story, but I won't go into that. It's an interesting story that I think is more fun just to read for yourself.
 
 ## Translation ##
 
