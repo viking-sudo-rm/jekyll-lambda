@@ -11,7 +11,7 @@ Ragnarok is a well known part of the Norse mythological canon presented by Snorr
 
 Then Gangleri says, “Are any gods alive then? Or is there then any earth or heavens?”
 
-The Grey One says, “Up shoots the Earth from the sea and it is then green and fertile. Unsown fields grow there. Vidarr and Vali live such that the sea and Surt’s flame have not hurt them, and they flourish there on Idavollr, where Asgard was before. And then the sons of Thor, Modi and Magni, come there, and they have there Mjollnir. Next, Baldr and Hodr come there from Hell. Everyone then sets themselves together and talk among themselves and remember their secrets and speak of those times which had been in days gone by. Of the Midgard Serpent and of Fenris Wolf. Then they find themselves in that golden grass that the Aesir had had. So it is said:
+The Grey One says, “Up shoots the Earth from the sea and it is then green and fertile. Unsown fields grow there. Vidarr and Vali live such that the sea and Surt’s flame have not hurt them, and they flourish there on Idavollr, where Asgard was before. And then the sons of Thor, Modi and Magni, come there, and they have there Mjollnir. Next, Baldr and Hodr come there from Hell. Everyone then sets themselves together and they talk among themselves and remember their secrets and speak of those times which had been in days gone by. Of the Midgard Serpent and of Fenris Wolf. Then they find themselves in that golden grass that the Aesir had had. So it is said:
 
 > Vidarr and Vali  
 > flourish as gods  
