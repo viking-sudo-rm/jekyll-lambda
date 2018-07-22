@@ -13,28 +13,28 @@ Then Gangleri says, “Are any gods alive then? Or is there then any earth or he
 
 The Grey One says, “Up shoots the Earth from the sea and it is then green and fertile. Unsown fields grow there. Vidarr and Vali live such that the sea and Surt’s flame have not hurt them, and they flourish there on Idavollr, where Asgard was before. And then the sons of Thor, Modi and Magni, come there, and they have there Mjollnir. Next, Baldr and Hodr come there from Hell. Everyone then sets themselves together and talk among themselves and remember their secrets and speak of those times which had been in days gone by. Of the Midgard Serpent and of Fenris Wolf. Then they find themselves in that golden grass that the Aesir had had. So it is said:
 
-> Vidarr and Vali
-> flourish as gods
-> when Surt’s flame burns.
-> Modi and Magni
-> shall have Mjollnir
+> Vidarr and Vali  
+> flourish as gods  
+> when Surt’s flame burns.  
+> Modi and Magni  
+> shall have Mjollnir  
 > after Vingnir’s battle-blow.
 
 And there where is called the forest of Hoddmimir, two hide in Surt’s flame who are called Lif and Leifthrasir, and they have morning dew for food. And from these people comes so great a lineage that the whole world rises again. As is said here:
 
-> Lif and Leifthrasir,
-> but they will hide
-> in the wood of Hoddmimir.
-> Morning dew
-> They will have for their food,
+> Lif and Leifthrasir,  
+> but they will hide  
+> in the wood of Hoddmimir.  
+> Morning dew  
+> They will have for their food,  
 > And from there centuries will be nourished.
 
 And it will seem strange to you when the sun has gotten a daughter no less beautiful than she is, and she carries herself on the path of her mother, as it says here:
 
-> The lone daughter carries Alfrodul;
-> Fenrir chases the other one.
-> So shall it tremble
-> when the gods die,
+> The lone daughter carries Alfrodul;  
+> Fenrir chases the other one.  
+> So shall it tremble  
+> when the gods die,  
 > The mother bears a daughter.
 
 But now if you should ask forth further, then I don’t know from where it could come to you, since I have heard no man speak more about the path of time. Enjoy now what you have gotten.”
