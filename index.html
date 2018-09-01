@@ -6,21 +6,23 @@ not_in_header: true
 ---
 
 <style type="text/css">
-img.inline {
-	display: inline-block;
+img#header {
+	margin: auto;
 	width: auto;
 	height: 200px;
-	margin-left: 10px;
-	margin-right: 10px;
+}
+
+img#funny {
+	float: left;
+	width: auto;
+	height: 200px;
 }
 </style>
 
 <div class="home">
 	
-	<span>
 	<img src="https://viking-sudo-rm.github.io/images/headshot.jpg" class="inline"/>
-	<img src="https://viking-sudo-rm.github.io/images/profpic.jpg" class="inline"/>
-	</span>
+	<img src="https://viking-sudo-rm.github.io/images/profpic.jpg" id="funny"/>
 
 	{% capture index %}{% include about.md %}{% endcapture %}
 	{{ index | markdownify }} 
