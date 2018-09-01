@@ -9,7 +9,7 @@ not_in_header: true
 img.inline {
 	display: inline-block;
 	width: auto;
-	height: 300px;
+	height: 200px;
 	margin-left: 10px;
 	margin-right: 10px;
 }
@@ -17,8 +17,10 @@ img.inline {
 
 <div class="home">
 	
+	<span>
 	<img src="https://viking-sudo-rm.github.io/images/headshot.jpg" class="inline"/>
 	<img src="https://viking-sudo-rm.github.io/images/profpic.jpg" class="inline"/>
+	</span>
 
 	{% capture index %}{% include about.md %}{% endcapture %}
 	{{ index | markdownify }} 
