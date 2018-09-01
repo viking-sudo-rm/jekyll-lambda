@@ -5,9 +5,18 @@ author_footer: false
 not_in_header: true
 ---
 
+<style type="text/css">
+img.inline {
+	display: inline-block;
+	height: 200px;
+	width: auto;
+}
+</style>
+
 <div class="home">
 	
-	<img src="https://viking-sudo-rm.github.io/images/headshot.jpg"/>
+	<img src="https://viking-sudo-rm.github.io/images/headshot.jpg" class="inline"/>
+	<img src="https://viking-sudo-rm.github.io/images/profpic.jpg" class="inline"/>
 
 	{% capture index %}{% include about.md %}{% endcapture %}
 	{{ index | markdownify }} 
