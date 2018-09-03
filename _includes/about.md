@@ -4,4 +4,4 @@ Will Merrill is a junior at Yale University interested in the intersection langu
 * Can we use apply deep methods to language decipherment and other historical linguistic problems?
 * Can deep learning and reinforcement learning allow artificial agents to learn sophisticated computer games?
 
-Outside of class, Will is the captain of the Yale Dota 2 team. He is also working on an indie video game project called [*The Book of Thoth*](http://snorridev.github.io/thoth/).
+Outside of class, Will is the captain of the Yale Dota 2 team and a member of Yale Table Tennis. He is also creating an indie video game project called [*The Book of Thoth*](http://snorridev.github.io/thoth/) and enjoys listening to rap.
