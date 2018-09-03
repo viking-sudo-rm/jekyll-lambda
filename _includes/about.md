@@ -1,7 +1,7 @@
-Thanks for visiting my website! I am a junior at Yale University interested in language and computation. More specifically, I have worked on research concerning the following questions:
+Will Merrill is a junior at Yale University interested in the intersection language and computation. This includes the formal foundations of linguistic structure, dynamics of historical change, and computational challenges in building sophisticated NLP systems. He has worked on research concerning the following questions:
 
 * How can linguistics and formal language theory inform the development of sophisticated deep architectures for NLP?
 * Can we use apply deep methods to language decipherment and other historical linguistic problems?
-* Video games. Deep learning?
+* Can deep learning and reinforcement learning allow artificial agents to learn sophisticated computer games?
 
-Outside of school, I'm a fan of Dota 2, and I captain the Yale Dota 2 team. Along with my friend Toby, I'm working on completing my first serious indie video game, [*The Book of Thoth*](http://snorridev.github.io/thoth/).
+Outside of class, Will is the captain of the Yale Dota 2 team. He is also working on an indie video game project called [*The Book of Thoth*](http://snorridev.github.io/thoth/).
