@@ -1,4 +1,4 @@
-Will is a junior at Yale University interested in the intersection language and computation. This includes the mathematical foundations of linguistic structure, dynamics of linguistic change, and computational challenges in modern NLP. He has worked on research concerning the following questions:
+Will is a senior at Yale University interested in the intersection language and computation. This includes the mathematical foundations of linguistic structure, dynamics of linguistic change, and computational challenges in modern NLP. He has worked on research concerning the following questions:
 
 * How can linguistics and formal language theory inform the development of sophisticated deep architectures for NLP?
 * How can deep learning be applied to language decipherment and other historical linguistic problems?
