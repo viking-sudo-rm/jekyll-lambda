@@ -10,8 +10,8 @@ An incomplete list of some open-source projects that I've worked on. For more, s
 
 ## Deep learning
 * [StackNN](https://github.com/viking-sudo-rm/StackNN). Public implementation of the differentiable stack datastructure originally described by Grefenstette et al., 2015.
-* [Voynich2Vec](https://github.com/viking-sudo-rm/voynich2vec) Word embedding techniques applied to deciphering the mysterious Voynich manuscript. We found evidence that certain suffices seem to have morphosyntactically meaningful distribution through this analysis.
-* [DeepMusic](https://github.com/jweinstein2/DeepMusic) A generative model for composing harmonic music from a single example song.
+* [Voynich2Vec](https://github.com/viking-sudo-rm/voynich2vec). Word embedding techniques applied to deciphering the mysterious Voynich manuscript. We found evidence that certain suffices seem to have morphosyntactically meaningful distribution through this analysis.
+* [DeepMusic](https://github.com/jweinstein2/DeepMusic). A generative model for composing harmonic music from a single example song.
 * [DiachronicPOSTagger](https://github.com/viking-sudo-rm/DiachronicPOSTagger). A part of speech tagger that models syntactic change over time. We were able to show that the year embeddings in this network were encoding a linguistic progression between nearby years.
 * [Draftnet](http://draftnet.herokuapp.com/). Named Grace Hopper Prize finalist for deep learning model that drafts winning teams in Dota 2. Developed a web interface for the model after the competition (see above link).
 
