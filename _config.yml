@@ -28,7 +28,7 @@ defaults:
 paginate: 20
 
 #### Site
-title : Will Merrill (ᚹᛁᛚᛚ᛫ᛗᛖᚱᚱᛁᛚᛚ)
+title : Will Merrill
 tagline: Gamer, linguist, and programmer.
 assets: /assets
 url:
@@ -88,7 +88,7 @@ share_to: true #enable share-to buttons if true
 #### Author information
 author:
   name: lambdaviking      ## e.g. wuchong Author name
-  # intro_line1:  "Hello, I'm Will Merrill."    ## your introduction on the bottom of the page
+  intro_line1:  "ᚹᛁᛚᛚ᛫ᛗᛖᚱᚱᛁᛚᛚ"    ## your introduction on the bottom of the page
   # intro_line2:  "This is my blog where I talk about language and coding."  ## the 2nd line
   # weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   # weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
