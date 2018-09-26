@@ -1,7 +1,46 @@
 ---
 layout: page
 type: page
-title: About me
+title: About
 ---
 
-Building....
+<style type="text/css">
+img#header {
+	margin: auto;
+	width: auto;
+	height: 200px;
+}
+img#funny {
+	display: inline-block;
+	float: left;
+	width: auto;
+	height: 400px;
+	margin-right: 50px;
+	vertical-align: top;
+	text-align: top;
+}
+</style>
+
+<div class="home">
+	
+	<!-- <img src="https://viking-sudo-rm.github.io/images/headshot.jpg" class="inline"/> -->
+	<img src="https://viking-sudo-rm.github.io/images/profpic.jpg" id="funny"/>
+
+	{% capture index %}{% include about.md %}{% endcapture %}
+	{{ index | markdownify }} 
+
+</div>
+
+<div>
+<p>Will is a senior at Yale University interested in the intersection of language and computation. This includes the algorithmic foundations of linguistic structure, dynamics of linguistic change, and computational challenges in modern NLP. He has worked on research concerning the following questions:</p>
+
+<ul>
+	<li>How can linguistics and formal language theory inform the development of sophisticated deep architectures for NLP?</li>
+	<li>How can machine learning be applied to language decipherment and other historical linguistic problems?</li>
+	<li>Can deep learning and reinforcement learning allow artificial agents to learn sophisticated computer games?</li>
+</ul>
+
+<p>Outside of class, Will is the captain of the Yale Dota 2 team and a member of Yale Table Tennis. He is also creating an indie video game called [*The Book of Thoth*](http://snorridev.github.io/thoth/) and enjoys rap.</p>
+
+<p>Here's <a href="/files/Resume.pdf">my resume</a> if you're looking for it.</p>
+</div>
