@@ -9,7 +9,7 @@ I've decided to share a literature review blog post about [*Learning to Transduc
 
 ## Summary
 
-This paper introduces a formalism for a differentiable stack data structure. This fact that this stack is differentiable allows it to be integrated into standard neural network models, which opens up the possibility for new neural network architectures that learn how to use a stack to solve a certain task.
+This paper introduces a formalism for a differentiable stack data structure. The fact that this stack is differentiable allows it to be integrated into standard neural network models, which opens up the possibility for new neural network architectures that learn how to use a stack to solve a certain task.
 
 The linguistic intuition underlying this development is that stacks are a useful data structure for parsing hierarchical (i.e. context-free) structure. The state-of-the art model for many linguistic tasks is some variant of an LSTM, which is a model that has only unstructured memory. Thus, by explicitly structuring the memory available to the model into a stack, the model should be able to learn a richer representation of natural language syntax. In addition to hopefully improving performance, having stack memory should also have the affect of making the algorithm that the neural network is learning more interpretable. This is important because interpretability is a major challenge for neural network models.
 
