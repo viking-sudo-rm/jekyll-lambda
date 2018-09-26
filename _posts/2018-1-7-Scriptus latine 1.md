@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Scriptus latine 1"
-category: latin
+title: "Scriptus Latine #1"
+category: Latin
 author_footer: false
 ---
 

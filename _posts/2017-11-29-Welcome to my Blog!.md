@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Welcome to my blog!"
-category: thoth
+title: "Welcome to my Blog!"
 author_footer: false
 ---
 

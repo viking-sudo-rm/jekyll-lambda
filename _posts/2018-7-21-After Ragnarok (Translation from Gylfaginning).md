@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "After Ragnarok (Translation from Gylfaginning)"
-category: "old Norse"
+category: "Old Norse"
 author_footer: false
 ---
 

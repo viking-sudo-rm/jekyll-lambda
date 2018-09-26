@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Translation from the Saga of Mary"
-category: "old Norse"
+category: "Old Norse"
 author_footer: false
 ---
 

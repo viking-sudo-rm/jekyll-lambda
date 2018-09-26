@@ -1,24 +1,5 @@
-<!DOCTYPE html>
-<html>
+---
+---
 
-  {% include head.html %}
-
-    <body>
-
-    {% include mathjax.html %}
-    
-    <div class="wrapper">
-
-      {% include header.html %}
-      
-      <div id="content">
-        <div id="articles">
-          <div class="article-list">
-            {{ content }}
-          </div>
-        </div>
-      </div>
-    </div>
-
-    </body>
-</html>
+{% assign lang = site.data.languages[site.language] %}
+{% include layout.html %}

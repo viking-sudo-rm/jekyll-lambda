@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Math capability on blog"
-category: math
+title: "Math Capability on Blog"
+category: Math
 author_footer: false
 mathjax: true
 ---
