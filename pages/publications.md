@@ -7,7 +7,7 @@ permalink: /publications/
 Here are some things I've written that you may find interesting.
 
 ## Publications and Presentations
-* **Context-free transductions with neural stacks**. Yiding Hao\*, William Merrill\*, Dana Angluin, Robert Frank, Noah Amsel, Andrew Benz, and Simon Mendelsohn. Black Box NLP (EMNLP) 2018.
+* **Context-free transductions with neural stacks**. Yiding Hao\*, William Merrill\*, Dana Angluin, Robert Frank, Noah Amsel, Andrew Benz, and Simon Mendelsohn. Black Box NLP at EMNLP 2018.
 \[ [arXiv](https://arxiv.org/abs/1809.02836) | [Code](https://github.com/viking-sudo-rm/StackNN) \]
 * **End-to-end graph-based TAG parsing with neural networks**. Jungo Kasai, Robert Frank, Pauli Xu, William Merrill, and Owen Rambow. NAACL 2018.
 \[ [arXiv](https://arxiv.org/abs/1804.06610) \]
