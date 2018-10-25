@@ -15,6 +15,8 @@ Here are some things I've written that you may find interesting.
 \[ [PDF](/files/sense-abstraction/paper.pdf) | [Slides](/files/sense-abstraction/slides.pdf) \]
 
 ## Other Writing
+* Literature review on capsule networks for NLP. 2018.
+\[ [Slides](/files/CapsuleNetsNLP.pdf) \]
 * **Dante++: a canto of _Inferno_ featuring Mark Zuckerburg, Pygmalion, and Yann LeCun**. 2018.
 \[ [PDF](/files/dantepp.pdf) \]
 * **Short summary paper on Navajo code talkers**. 2018.
