@@ -21,7 +21,7 @@ Here are some things I've written that you may find interesting.
 ## Other Writing
 * **Dante++: a canto of _Inferno_ featuring Mark Zuckerburg, Pygmalion, and Yann LeCun**. 2018.
 \[ [PDF](/files/dantepp.pdf) \]
-* Short summary paper on Navajo code talkers. 2018.
+* **Short summary paper on Navajo code talkers**. 2018.
 \[ [PDF](/files/NavajoCodeTalkers.pdf) \]
 * **Variable force modality of _motan_ in Beowulf**. 2017.
 \[ [PDF](https://ling.auf.net/lingbuzz/003541) \]
