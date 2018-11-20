@@ -14,7 +14,7 @@ Here are some things I've written that you may find interesting.
 * **A semantics of subordinate clauses using delayed evaluation**. William Merrill. TULCon 2018.
 \[ [PDF](/files/sense-abstraction/paper.pdf) | [Slides](/files/sense-abstraction/slides.pdf) \]
 * **Literature review: capsule networks for NLP**. William Merrill. Advanced NLP at Yale University. 2018.
-\[ [Slides](/files/CapsuleNetsNLP.pdf) \]
+\[ [Slides](/files/capsule-nets-nlp/slides.pdf) | [PDF](/files/capsule-nets-nlp/writeup.pdf) \]
 
 \* Equal contribution.
 
