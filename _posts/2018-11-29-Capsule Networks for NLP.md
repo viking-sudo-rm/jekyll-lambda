@@ -31,7 +31,7 @@ Enter capsule networks! The main idea behind a capsule network is that we replac
 
 ### Connecting Capsule Layers
 
-Connecting layers of a capsules is a little more complicated than matrix multiplication in a conventional neural network. The existence of instantiation parameters allows us construct layer connection that enforce a learned notion of agreement. This is done in a two step process:
+Connecting layers of a capsules is a little more complicated than matrix multiplication in a conventional neural network. The existence of instantiation parameters allows us construct layer connection that enforce a learned notion of agreement. This is done in a two-step process:
 
 1. Compute "vote vectors" between each capsule $i$ in the previous layer and each capsule $j$ in the following layer. Intuitively, these vote vectors encode what information should be passed from $i$ to $j$.
 2. Run an iterative algorithm called dynamic routing to calculate the next layer's capsules from the vote vectors. This algorithm is meant to enforce agreement, and uses no parameters.
