@@ -3,6 +3,7 @@ layout: post
 title: "Capsule Networks for NLP"
 category: "NLP"
 author_footer: false
+mathjax: true
 ---
 
 Capsule networks are a sophisticated neural network architecture originally proposed in the domain of computer vision. Motivated by some of the main problems with convolutional neural networks for image classification, capsule layers allow low-level features about an image to be effectively combined into higher-level information. In linguistic terms, we might call this compositionality. Given the fact that compositionality exists in natural language, we might wonder whether this kind of architecture could be useful for NLP tasks. Three recent papers have shown that capsule networks do in fact perform well on text classification tasks. One of the other big takeaways from these papers is that the capsule representation allows for effective transfer learning.
@@ -17,15 +18,15 @@ To understand how capsule networks are designed, we should first consider standa
 
 While this convolutional architecture has achieved tremendous success on image classification and other tasks, it suffers from some severe limitations. For one, it takes a tremendous amount of data to learn rotational and reflectional invariants of high-level features (for example, faces). This is because we essentially need to learn a filter corresponding to each possible rotation of a feature. Another problem is that max-pooling loses information about the relative position of objects. For example, imagine we have a face where the positions of the eye and mouth are swapped. If max-pooling collapses the facial region down to one pixel, then, to the next layer of the network, it will be impossible to distinguish this distorted face from a normal one. Thus, we can create a variety of wacky faces that will fool convolutional networks but not humans. To solve this problem, we would want some model that enforces relative agreement between features.
 
-![flip.png](/assets/img/capsule-nets-nlp/flip.png "Problem: Transformational Invariance")
-![max_pooling_problem.png](/assets/img/capsule-nets-nlp/max_pooling_problem.png "Problem: Max Pooling")
+<img src="/assets/img/capsule-nets-nlp/flip.png" width=300 />
+<img src="/assets/img/capsule-nets-nlp/max_pooling_problem.png" width=300 />
 
 ### Capsules
 
-Enter capsule networks! The main idea behind a capsule network is that we replace each scalar-valued filter in a convolutional network with a vector-valued *capsule*. We can think of the value of a filter in a convolutional network as a boolean which tells as whether or not a feature exists there. On the other hand, because a capsule is a vector, it can encode not just this probability, but also properties (called *instantiation parameters*) of the feature. Formally, for a capsule $u$:
+Enter capsule networks! The main idea behind a capsule network is that we replace each scalar-valued filter in a convolutional network with a vector-valued *capsule*. We can think of the value of a filter in a convolutional network as a boolean which tells as whether or not a feature exists there. On the other hand, because a capsule is a vector, it can encode not just this probability, but also properties (called *instantiation parameters*) of the feature. More specifically, for a capsule $u$:
 
-* $|u| \in (0, 1)$ gives a probability for the existence of the capsule feature.
-* The direction of $u$ (in a high dimensional space) encodes different parameters of the capsule.
+* The **magnitude** of $u$ ($|u| \in (0, 1)$) gives a probability for the existence of the capsule feature.
+* The **direction** of $u$ (in a high dimensional space) encodes different parameters of the capsule.
 
 ### Connecting Capsule Layers
 
