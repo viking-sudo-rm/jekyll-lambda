@@ -38,7 +38,7 @@ Connecting layers of a capsules is a little more complicated than matrix multipl
 
 An important fact to highlight is that, just like in a standard neural network, we can get different kinds of layers by applying routing in different ways. For example, we can get a convolutional capsule layer if we route from a sliding window in the previous layer, or a feedforward capsule layer if we route from all the capsules in the previous layer. Another important type of capsule layer is a primary capsule layer, which converts normal neural network values into capsules. This is always applied at the beginning of a capsule network.
 
-There are a lot more details here. If you are interested, you should refer to my [slides about capsule networks for NLP](files/capsule-nets-nlp/slides.pdf), as well as the other resources which are linked there.
+There are a lot more details here. If you are interested, you should refer to my [slides about capsule networks for NLP](/files/capsule-nets-nlp/slides.pdf), as well as the other resources which are linked there.
 
 ## Capsules Networks for NLP
 
