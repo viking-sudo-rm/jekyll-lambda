@@ -11,6 +11,8 @@ Here are some things I've written that you may find interesting.
 \[ [arXiv](https://arxiv.org/abs/1809.02836) | [Code](https://github.com/viking-sudo-rm/StackNN) \]
 * **End-to-end graph-based TAG parsing with neural networks**. Jungo Kasai, Robert Frank, Pauli Xu, William Merrill, and Owen Rambow. NAACL 2018.
 \[ [arXiv](https://arxiv.org/abs/1804.06610) \]
+* **Sequential neural networks as automata**. William Merrill. B.S. Thesis, Yale University.
+\[ [Thesis](/files/senior-thesis/thesis.pdf) | [Slides](/files/senior-thesis/slides.pdf) \]
 * **A semantics of subordinate clauses using delayed evaluation**. William Merrill. TULCon 2018.
 \[ [PDF](/files/sense-abstraction/paper.pdf) | [Slides](/files/sense-abstraction/slides.pdf) \]
 * **Literature review: capsule networks for NLP**. William Merrill. Advanced NLP at Yale University. 2018.
